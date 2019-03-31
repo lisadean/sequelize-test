@@ -31,3 +31,5 @@ module.exports = {
     return queryInterface.dropTable('Users');
   }
 };
+
+//adding in a test comment - hello from Beth
